@@ -1,0 +1,325 @@
+body {
+    color:  #434455;;
+    font-family: Roboto, sans-serif;
+ font-size: 16px;
+ font-weight: 400;
+ }
+ a{
+    text-decoration: none;
+ }
+.logo {
+ color: #2E2F42;
+ font-family: Raleway, sans-serif;
+ font-size : 18px;
+ font-weight: 700;
+ line-height: 1.16;
+ letter-spacing: 0.03em;
+ text-align: left;
+ text-transform: uppercase;
+ width: 496px;
+}
+.logo-accent{
+color:  #4D5AE5;
+;
+}
+.header-logo {
+    color: #2E2F42;
+    ;
+}
+.header-link {
+ color: #2E2F42;
+ font-weight: 500;
+ line-height: 1.5; 
+ letter-spacing: 0.32px; 
+ font-style: normal
+}
+ 
+ 
+
+.header-link:hover{
+   color: #404BBF;
+
+}
+.header-link:focus {
+    color: #404BBF; 
+}
+   
+    
+
+.hero-section {
+    background: #2E2F42;
+}
+
+
+.hero-title {
+color:  #FFFFFF;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 1.12px;
+text-transform: capitalize;
+text-align: center;
+
+}
+.hero-button {
+    color: #FFF;
+background-color:  #4D5AE5;
+background-color:  rgb(77, 90, 229);
+border: none;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.64px;
+padding: 16px 32px;
+border-radius: 4px;
+
+
+}
+.hero-button:hover {
+    background: #404BBF;
+
+}
+.hero-button :focus{
+    background: #404BBF;
+}
+.stategy-title {
+color:#2E2F42 ;
+font-size: 20px;
+font-weight: 500;
+line-height: 0.24; 
+letter-spacing: 0.4px;
+}
+.stategy-section {
+    color:  #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 0.24; 
+letter-spacing: 0.32px;
+}
+.punctuality-title {
+    color:  #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 0.24; 
+letter-spacing: 0.4px;
+}
+.punctuality-section {
+    color:  #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 0.24; 
+letter-spacing: 0.32px;
+}
+.diligence-title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+}
+.diligence-section {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.21;
+    letter-spacing: 0.32px;
+}
+.technologies-title {
+    color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+}
+.technologies-section {
+    color:  #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px;
+}
+.team-title {
+color: #2E2F42 ;
+background-color:#f4f4fd;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 0.4;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+
+}
+.mark-name {
+color:#2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 0.24;
+letter-spacing: 0.4px;
+}
+.mark-job-title{
+color:  #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 0.24;
+letter-spacing: 0.32px;
+}
+.mike-title {
+color:  #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 0.24;
+letter-spacing: 0.4px;
+}
+.mike-job-title{
+    color:  #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px;  
+}
+.jenny-title {
+    color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+}
+.enny-job-title {
+    color:  #434455;
+   
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px; 
+}
+.pavlo-title {
+    color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+}
+.pavlo-job-title{
+    color:  #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px;
+}
+.portfolio-title {
+ color:  #2E2F42;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 0.4;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+}
+.banking-section {
+    color:  #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height:0.24;
+letter-spacing: 0.4px;
+}
+.banking-section-app {
+    color:  #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 0.24;
+letter-spacing: 0.32px;
+}
+.cashlessPayment-title{
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+}
+.marketing-sectio{
+    color:  #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px; 
+}
+.meditation-title {
+    color: #2E2F42;
+
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+}
+.app-section{
+    color:  #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px; 
+}
+.taxi-title{
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+} 
+ .taxi-marketing-section {
+    color:  #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px; 
+}
+.screen-title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+}
+.screen-section-desing {
+    color:  #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px; 
+}
+.cnlinecourses-title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0.24;
+    letter-spacing: 0.4px;
+}
+.cnlinecourses-marketing-section {
+    color:  #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0.24;
+    letter-spacing: 0.32px; 
+}
+.logo-footer{
+    color: #ffffff;
+    font-family: Raleway, sans-serif;
+    font-size : 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-transform: uppercase;
+    width: 496px;   
+}
+.logo-footer-title {
+    background:  #2E2F42;
+}
+.footer-section {
+    color:  #F4F4FD;
+font-size: 16px;
+font-weight: 400;
+line-height: 0.24;
+letter-spacing: 0.32px;
+}
+ul {
+ list-style: none;   
+} 
