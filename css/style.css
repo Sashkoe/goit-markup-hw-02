@@ -17,7 +17,7 @@ body {
  letter-spacing: 0.03em;
  text-align: left;
  text-transform: uppercase;
- width: 496px;
+
 }
 .logo-accent{
 color:  #2e2f42 ;
@@ -73,8 +73,7 @@ border: none;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.64px;
-padding: 16px 32px;
-border-radius: 4px;
+
 
 
 }
@@ -312,7 +311,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.03em;
     text-align: left;
     text-transform: uppercase;
-    width: 496px;   
+       
 }
 .logo-footer-title {
     background:  #2E2F42;
