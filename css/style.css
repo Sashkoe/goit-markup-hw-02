@@ -30,7 +30,7 @@ color: #2E2F42;
     
 }
 .header-link {
- color: #434455;
+ color:#2E2F42 ;
  font-weight: 500;
  line-height: 1.5; 
  letter-spacing: 0.32px; 
@@ -45,6 +45,9 @@ color: #2E2F42;
     color: #404BBF; 
 }
 
+.contacts{
+    color: #434455;
+}
     
 
 .hero-section {
