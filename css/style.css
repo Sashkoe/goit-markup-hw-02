@@ -30,11 +30,14 @@ color:  #2e2f42 ;
     
 }
 .header-link {
- color: #434455;
+ color: #2e2f42;
  font-weight: 500;
  line-height: 1.5; 
  letter-spacing: 0.32px; 
  font-style: normal
+}
+.header-link-list {
+    color: #434455;
 }
  
  
