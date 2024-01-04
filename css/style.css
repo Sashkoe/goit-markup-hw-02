@@ -44,17 +44,7 @@ color:  #2e2f42 ;
 .header-link:focus {
     color: #404BBF; 
 }
- .header-link-title {
-    color:#434455 ;
-    font-weight: 500;
-    line-height: 1.5; 
-    letter-spacing: 0.32px; 
-    font-style: normal   
-}
  
-
-
-   
     
 
 .hero-section {
