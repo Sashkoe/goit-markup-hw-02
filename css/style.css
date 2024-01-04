@@ -37,6 +37,13 @@ color:  #2e2f42 ;
  font-style: normal
 }
 
+.header-link:hover{
+   color: #404BBF;
+
+}
+.header-link:focus {
+    color: #404BBF; 
+}
  .header-link-title {
     color:#434455 ;
     font-weight: 500;
@@ -46,13 +53,6 @@ color:  #2e2f42 ;
 }
  
 
-.header-link:hover{
-   color: #404BBF;
-
-}
-.header-link:focus {
-    color: #404BBF; 
-}
 
    
     
