@@ -24,7 +24,10 @@ color:  #4D5AE5;
 ;
 }
 .header-logo {
-    color: #2E2F42;
+    color: #4d5ae5 ;
+    line-height: 1.17;
+
+
     ;
 }
 .header-link {
