@@ -143,49 +143,6 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.32px;
 }
-.mike-title {
-color:  #2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height: 0.24;
-letter-spacing: 0.4px;
-}
-.mike-job-title{
-    color:  #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px;  
-}
-.jenny-title {
-    color:  #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-}
-.enny-job-title {
-    color:  #434455;
-   
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px; 
-}
-.pavlo-title {
-    color:  #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-}
-.pavlo-job-title{
-    color:  #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px;
-}
 .portfolio-title {
  color:  #2E2F42;
 text-align: center;
