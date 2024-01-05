@@ -152,13 +152,14 @@ line-height: 1.2;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 }
-.banking-section {
-    color:  #2E2F42;
+.list-second{    color:  #2E2F42;
 font-size: 20px;
 font-weight: 500;
 line-height:0.24;
 letter-spacing: 0.4px;
 }
+
+
 .banking-section-app {
     color:  #434455;
 font-size: 16px;
