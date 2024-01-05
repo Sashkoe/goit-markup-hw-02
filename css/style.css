@@ -91,7 +91,7 @@ text-align: center;
  letter-spacing:0.04em;
  cursor: pointer;
 }
-.hero-button :focus{
+.hero-button:focus{
     background-color: #404BBF;
 }
 .hero-button:hover {
