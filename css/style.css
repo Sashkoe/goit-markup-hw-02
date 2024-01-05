@@ -80,13 +80,16 @@ text-align: center;
 
 }
 .hero-button {
-    color: #FFF;
+ color: #FFF;
 background-color:  #4D5AE5;
 background-color:  rgb(77, 90, 229);
+font-family: Roboto, sans-serif;
 border: none;
+font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
-letter-spacing: 0.64px;
+letter-spacing:0.04em;
+cursor: pointer;
 
 
 
