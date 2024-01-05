@@ -81,15 +81,15 @@ text-align: center;
 }
 .hero-button {
  color: #FFF;
-background-color:  #4D5AE5;
-background-color:  rgb(77, 90, 229);
-font-family: Roboto, sans-serif;
-border: none;
-font-size: 16px;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing:0.04em;
-cursor: pointer;
+ background-color:  #4D5AE5;
+ background-color:  rgb(77, 90, 229);
+ font-family: Roboto, sans-serif;
+ border: none;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 1.5;
+ letter-spacing:0.04em;
+ cursor: pointer;
 
 
 
@@ -99,7 +99,7 @@ cursor: pointer;
 
 }
 .hero-button :focus{
-    background: #404BBF;
+    background-color: #404BBF;
 }
 .stategy-title {
 color:#2E2F42 ;
