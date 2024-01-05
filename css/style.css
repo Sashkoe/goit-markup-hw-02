@@ -129,14 +129,14 @@ text-transform: capitalize;
 .background {
 background-color: #FFFFFF;
 }
-.mark-name {
+.small-name {
 color:#2E2F42;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.4px;
 }
-.mark-job-title{
+.text {
 color:  #434455;
 font-size: 16px;
 font-weight: 400;
