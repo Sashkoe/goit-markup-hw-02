@@ -167,8 +167,10 @@ letter-spacing: 0.4px;
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-align: left;
-    text-transform: uppercase;
-       
+    text-transform: uppercase;     
+}
+.footer {
+    background-color: #2e2f42;
 }
 .logo-footer-title {
     background:  #2E2F42;
