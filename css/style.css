@@ -90,17 +90,15 @@ text-align: center;
  line-height: 1.5;
  letter-spacing:0.04em;
  cursor: pointer;
-
-
-
+}
+.hero-button :focus{
+    background-color: #404BBF;
 }
 .hero-button:hover {
     background: #404BBF;
 
 }
-.hero-button :focus{
-    background-color: #404BBF;
-}
+
 .stategy-title {
 color:#2E2F42 ;
 font-size: 20px;
