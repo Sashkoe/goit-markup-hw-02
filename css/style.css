@@ -113,48 +113,6 @@ font-weight: 400;
 line-height:  1.5;
 letter-spacing: 0.32px;
 }
-.punctuality-title {
-    color:  #2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height: 0.24; 
-letter-spacing: 0.4px;
-}
-.punctuality-section {
-    color:  #434455;
-font-size: 16px;
-font-weight: 400;
-line-height: 0.24; 
-letter-spacing: 0.32px;
-}
-.diligence-title {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-}
-.diligence-section {
-    color: #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.21;
-    letter-spacing: 0.32px;
-}
-.technologies-title {
-    color:  #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-}
-.technologies-section {
-    color:  #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px;
-}
 .team-title {
 color: #2E2F42 ;
 background-color:#f4f4fd;
