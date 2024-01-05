@@ -113,6 +113,9 @@ font-weight: 400;
 line-height:  1.5;
 letter-spacing: 0.32px;
 }
+.section-team {
+    background: #F4F4FD;
+}
 .team-title {
 color: #2E2F42 ;
 background-color: #F4F4FD;
