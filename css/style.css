@@ -155,89 +155,10 @@ text-transform: capitalize;
 .list-second{    color:  #2E2F42;
 font-size: 20px;
 font-weight: 500;
-line-height:0.24;
+ line-height: 1.2;
 letter-spacing: 0.4px;
 }
 
-
-.banking-section-app {
-    color:  #434455;
-font-size: 16px;
-font-weight: 400;
-line-height: 0.24;
-letter-spacing: 0.32px;
-}
-.cashlessPayment-title{
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-}
-.marketing-sectio{
-    color:  #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px; 
-}
-.meditation-title {
-    color: #2E2F42;
-
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-}
-.app-section{
-    color:  #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px; 
-}
-.taxi-title{
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-} 
- .taxi-marketing-section {
-    color:  #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px; 
-}
-.screen-title {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-}
-.screen-section-desing {
-    color:  #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px; 
-}
-.cnlinecourses-title {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 0.24;
-    letter-spacing: 0.4px;
-}
-.cnlinecourses-marketing-section {
-    color:  #434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 0.24;
-    letter-spacing: 0.32px; 
-}
 .logo-footer{
     color: #ffffff;
     font-family: Raleway, sans-serif;
