@@ -3,7 +3,7 @@ body {
     background-color:#FFFFFF ;
     font-family: Roboto, sans-serif;
  font-size: 16px;
- font-weight: 400;
+
  }
  a{
     text-decoration: none;
@@ -15,7 +15,6 @@ body {
  font-weight: 700;
  line-height: 1.17;
  letter-spacing: 0.03em;
- text-align: left;
  text-transform: uppercase;
 
 }
@@ -34,7 +33,7 @@ color: #2E2F42;
  font-weight: 500;
  line-height: 1.5; 
  letter-spacing: 0.32px; 
- font-style: normal
+
 }
 
 .header-link:hover{
@@ -48,9 +47,7 @@ color: #2E2F42;
 .contacts{
     color: #434455;
      font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px; 
+line-height: 1.5; 
 letter-spacing: 0.32px;
 }
   .address{
@@ -107,9 +104,7 @@ line-height: 1.2;
 letter-spacing: 0.4px;
 }
 .stategy-section {
-    color:  #434455;
 font-size: 16px;
-font-weight: 400;
 line-height:  1.5;
 letter-spacing: 0.32px;
 }
@@ -137,9 +132,7 @@ line-height: 1.2;
 letter-spacing: 0.4px;
 }
 .text {
-color:  #434455;
 font-size: 16px;
-font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.32px;
 }
@@ -178,7 +171,6 @@ letter-spacing: 0.4px;
 .footer-section {
     color:  #F4F4FD;
 font-size: 16px;
-font-weight: 400;
  line-height: 1.5;
 letter-spacing: 0.32px;
 }
